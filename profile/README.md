@@ -153,4 +153,6 @@ This project is under active development as part of an academic initiative. Feat
 
 ## License
 
-No formal license has been declared yet. Please contact the maintainers for usage permissions.
+Both repositories are licensed under the [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.html).
+
+You are free to use, modify, and distribute this software under the terms of the AGPL-3.0. Any modified version that is accessible over a network must also be made available under the same license.
